@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "provider": "cdnjs",
+      "library": "twitter-bootstrap@5.3.0",
+      "destination": "wwwroot/lib/twitter-bootstrap/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "jquery@3.7.0",
+      "destination": "wwwroot/lib/jquery/"
+    }
+  ,
+{
+  "provider": "cdnjs",
+  "library": "lunar-javascript@1.6.2",
+  "destination": "wwwroot/lib/lunar-javascript/"
+}
+]
+}
